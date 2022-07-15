@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 👩‍💻 I’m currently working on web development technologies like Python, JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies.
+###- 👩‍💻 I’m currently working on web development technologies like Python, JavaScript, React etc.
+###- 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
