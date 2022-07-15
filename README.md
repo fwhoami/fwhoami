@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fwhoami&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fwhoami&repo=github-readme-stats)](https://github.com/fwhoami/github-readme-stats)
