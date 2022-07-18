@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fwhoami&show_icons=true&theme=tokyonight)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fwhoami
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=clahfclns)](https://github.com/fwhoami/github-readme)
