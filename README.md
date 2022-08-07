@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fwhoami&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fwhoami"/>
+<img src='http://luxurychoccie.tumblr.com/post/38536801371/day-22-penguin-shuffle'>
 
