@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fwhoami&show_icons=true&theme=tokyonight)
 
-<img src='http://luxurychoccie.tumblr.com/post/38536801371/day-22-penguin-shuffle'>
+<iframe src="https://giphy.com/embed/H4uE6w9G1uK4M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/penguin-scared-snow-H4uE6w9G1uK4M">via GIPHY</a></p>
 
