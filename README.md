@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fwhoami&show_icons=true&theme=tokyonight)
 
-<iframe src="https://giphy.com/embed/H4uE6w9G1uK4M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/penguin-scared-snow-H4uE6w9G1uK4M">via GIPHY</a></p>
-
-<img src="https://giphy.com/embed/H4uE6w9G1uK4M">
+<img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
