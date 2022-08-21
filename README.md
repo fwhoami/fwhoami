@@ -1,4 +1,4 @@
-### Hi there, I`m Kate!👋
+                                                     ### Hi there, I`m Kate!👋
 - 👩‍💻 I’m currently working on web development technologies like Python, JavaScript, React etc.
 - 📚 I’m currently learning everything about Backend and Frontend technologies.
 
