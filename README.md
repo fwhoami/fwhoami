@@ -1,4 +1,4 @@
-<h1 text-align="center">Hi there, I`m Kate!👋</h1>
+<h1 style="text-align: center;">Hi there, I`m Kate!👋</h1>
 
 - 👩‍💻 I’m currently working on web development technologies like Python, JavaScript, React etc.
 
