@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I`m Kate!👋</h1>
 
-- 👩‍💻 I’m currently working on web development technologies.
+- 👩‍💻 I’m currently working on web development technologies like TypeScript, React etc.
 
 - 📚 I’m currently learning everything about Backend and Frontend technologies.
 
